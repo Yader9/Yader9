@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yader Carrillo
-- 👀 I’m interested in Machine Learning, Data Science and Deep Technical Recruiting
-- 💞️ I’m looking to collaborate on Technical Recruiting Projects
+- 👀 I’m interested in Blockchain, Machine Learning, Data Science and Deep Technical Recruiting
+- 💞️ I’m looking to collaborate on Technical Recruiting long-term projects
 - 📫 How to reach me: yaderrafa@gmail.com
 
 <!---
